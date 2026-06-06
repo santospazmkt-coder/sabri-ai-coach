@@ -4,7 +4,7 @@ Final project for the Building AI course
 
 Project for the Building AI course.
 
-Summary
+##Summary
 
 Sabri AI Coach is an AI-powered personal development and content creation assistant. It helps users organize goals, improve productivity, create social media content, and build a personal brand through personalized action plans and intelligent recommendations.
 
