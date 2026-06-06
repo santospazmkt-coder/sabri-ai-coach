@@ -1,78 +1,87 @@
-# Sabri AI Coach
+Sabri AI Coach
 
-Projeto do curso de IA em desenvolvimento
+Final project for the Building AI course
 
-## Resumo
+Project for the Building AI course.
 
-Sabri AI Coach é um assistente de inteligência artificial voltado para desenvolvimento pessoal, produtividade, criação de conteúdo e construção de marca pessoal. O objetivo é ajudar usuários a transformarem objetivos em planos de ação práticos e personalizados.
+Summary
 
-## Contexto
+Sabri AI Coach is an AI-powered personal development and content creation assistant. It helps users organize goals, improve productivity, create social media content, and build a personal brand through personalized action plans and intelligent recommendations.
 
-Muitas pessoas possuem metas, sonhos e projetos, mas enfrentam dificuldades para manter consistência, organização e clareza sobre os próximos passos.
+Background
 
-Problemas que o projeto pretende ajudar a resolver:
+Many people struggle with consistency, organization, and content creation. They have goals but often lack a clear plan to achieve them.
 
-* Falta de planejamento pessoal
-* Dificuldade na criação de conteúdo para redes sociais
-* Falta de motivação e acompanhamento de metas
-* Excesso de informações sem direcionamento
+Problems this project aims to solve:
 
-Minha motivação vem da minha experiência com desenvolvimento pessoal, liderança, marketing e criação de conteúdo digital.
+* Difficulty organizing personal and professional goals
+* Lack of consistency in content creation
+* Productivity challenges
+* Difficulty building a personal brand
+* Information overload without practical guidance
 
-## Como é utilizado
+My personal motivation comes from my interest in personal development, productivity, leadership, and digital content creation. I believe AI can help people turn ideas into action.
 
-O usuário conversa com o assistente e informa seus objetivos.
+How is it used?
 
-O sistema pode:
+The user interacts with the AI assistant through a chat interface.
 
-* Criar planos de ação
-* Sugerir conteúdos para Instagram
-* Auxiliar na definição de metas
-* Organizar tarefas
-* Gerar ideias criativas
-* Apoiar processos de aprendizagem
+The assistant can:
 
-O público-alvo inclui empreendedores, criadores de conteúdo, profissionais e pessoas que desejam melhorar sua organização pessoal.
+* Create personalized action plans
+* Suggest content ideas for social media
+* Organize goals and tasks
+* Generate productivity recommendations
+* Support personal branding strategies
+* Help users stay focused on long-term objectives
 
-## Fontes de dados e métodos de IA
+The solution can be used daily by entrepreneurs, content creators, professionals, students, and anyone seeking personal growth.
 
-Possíveis fontes de dados:
+"AI Assistant" (https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Chatbot.svg/512px-Chatbot.svg.png)
 
-* Histórico de interações do usuário
-* Metas e preferências pessoais
-* Conteúdo público de redes sociais
-* Bases de conhecimento sobre produtividade e marketing
+Data sources and AI methods
 
-Métodos de IA:
+Possible data sources:
 
-* Processamento de Linguagem Natural (NLP)
-* Modelos de linguagem generativa
-* Sistemas de recomendação
-* Aprendizado de máquina
+* User-provided goals and preferences
+* Productivity frameworks
+* Personal development content
+* Publicly available educational resources
 
-## Desafios
+AI methods:
 
-O projeto não substitui mentores, psicólogos ou especialistas.
+* Natural Language Processing (NLP)
+* Generative AI
+* Recommendation systems
+* Machine Learning
+* Conversational AI
 
-Limitações:
+Challenges
 
-* Dependência da qualidade das informações fornecidas pelo usuário
-* Possibilidade de recomendações inadequadas em determinados contextos
-* Necessidade de validação humana para decisões importantes
+The project does not replace human professionals such as psychologists, coaches, consultants, or medical experts.
 
-## Próximos passos
+Limitations include:
 
-Futuras evoluções do projeto:
+* Dependence on user-provided information
+* Possibility of generic recommendations
+* Need for human judgment in important decisions
+* Privacy and data protection considerations
 
-* Aplicativo próprio
-* Integração com calendário
-* Integração com redes sociais
-* Painel de acompanhamento de metas
-* Geração automática de planos semanais
+What next?
 
-## Agradecimentos
+Future developments include:
 
-* Curso Building AI - Elements of AI
-* Universidade de Helsinque
+* Dedicated mobile application
+* Calendar integration
+* Habit tracking system
+* Social media integrations
+* Goal monitoring dashboard
+* Personalized AI coaching features
+
+Acknowledgments
+
+* Building AI Course
+* Elements of AI
+* University of Helsinki
 * Reaktor
-* Comunidade global de Inteligência Artificial
+* Open-source AI community
